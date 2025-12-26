@@ -46,8 +46,7 @@ Encoding a Message
 
 Clone the repository:
 
-git clone https://github.com/your-username/image-steganography-c.git
-
+https://github.com/allapureddyjayapalreddy-creator/Steganography-in-C-language
 
 Compile the project:
 
